@@ -1,2 +1,2 @@
 # Authentication_php
-### REST API for authentication built in core PHP
+## REST API for authentication built in core PHP
